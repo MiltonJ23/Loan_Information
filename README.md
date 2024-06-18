@@ -6,7 +6,10 @@
 
 <h2>🚀 Demo</h2>
 
-[https://github.com/MiltonJ23/Loan\_Information/blob/Library-Insertion/res/fxml/Demo%20Loan%20Project.mov](https://github.com/MiltonJ23/Loan_Information/blob/Library-Insertion/res/fxml/Demo%20Loan%20Project.mov)
+[![Watch the video](https://github.com/MiltonJ23/Loan_Information/blob/main/res/fxml/Demo%20Loan%20Project.mp4)](https://github.com/MiltonJ23/Loan_Information/blob/main/res/fxml/Demo%20Loan%20Project.mp4)
+
+
+- [ ] Appreciate the demo
 
   
   
